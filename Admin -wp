@@ -1,0 +1,4 @@
+  .hide-warper-when-post-are-visible{
+  display:none;
+  
+  }
